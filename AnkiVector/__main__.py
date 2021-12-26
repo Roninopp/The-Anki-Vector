@@ -67,7 +67,6 @@ Hey there 👋
 My name is Rose 
 I can manage your groups with more functions 😏
 If you want to know how to use me just press on Help🛠 button below or hit /help 🙂
-@sl_bot_zone Projects 🇱🇰
 """
 
 buttons = [
@@ -82,7 +81,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Help 🛠", url="http://t.me/szrosebot?start=help"),
+        InlineKeyboardButton(text="Help 🛠", url="http://t.me/MUSSSICROBOT?start=help"),
         InlineKeyboardButton(
             text="Support Me 🥺", url="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA"
         ),
