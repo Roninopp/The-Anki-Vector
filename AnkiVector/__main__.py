@@ -529,7 +529,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Support Chat",
-                            url="https://t.me/{}".format(SUPPORT_CHAT),
+                            url="https://t.me/{@Ronin_Fighters_Fd}".format(),
                         )
                     ],
                 ]
