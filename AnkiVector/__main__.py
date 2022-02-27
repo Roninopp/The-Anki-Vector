@@ -72,8 +72,8 @@ hit /help to Find my list of available commands 🕹*
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌Updates Channel", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="📌Updates Channel", url="https://https://t.me/RONIN_Fighters_Fd"),
+        InlineKeyboardButton(text="🖲 Support Group", url="https://https://t.me/RONIN_Fighters_Fd"),
     ],
     [
         InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
