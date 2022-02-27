@@ -64,16 +64,16 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = f"""
-*Hellow There, I'm Anki Vector 🍑
+*Hellow There, I'm FANTASTIC🍑
 
-I'm a Powerfull group manager bot With Cool Modules. Made My @TeamAnkiVector
+I'm a Powerfull group manager bot With Cool Modules. Made My @RONIN_FIGHTERS_FD
 hit /help to Find my list of available commands 🕹*
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌Updates Channel", url="https://https://t.me/RONIN_Fighters_Fd"),
-        InlineKeyboardButton(text="🖲 Support Group", url="https://https://t.me/RONIN_Fighters_Fd"),
+        InlineKeyboardButton(text="📌Updates Channel", url="https://https://@RONIN_Fighters_Fd"),
+        InlineKeyboardButton(text="🖲 Support Group", url="https://https://@RONIN_FIGHTERS_FD"),
     ],
     [
         InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
@@ -81,7 +81,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector To Youre Group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add Anki Vector To Youre Group ➕", url="https://t.me/RONIN_Fighters_Fd?startgroup=true"
         ),
     ],
 ]
